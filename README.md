@@ -36,7 +36,7 @@ By default the initial ratio will be set at 1:1, so 1 STK is equal to 1 share. E
 > StakeToken - https://goerli.etherscan.io/address/0xD154805B317C83f61aB1744A0A0C931Bd318e50a
 > Staking - https://goerli.etherscan.io/address/0xB767f1030d239FF3d84d3369A37312C714740cC8
 
-### Test
+### Tes
 
 1. To run the unit test, use the below command
 
